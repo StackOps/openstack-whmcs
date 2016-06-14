@@ -1,0 +1,3 @@
+[submodule "openstacklibs"]
+	path = openstacklibs
+	url = https://github.com/StackOps/openstacklibs.git
